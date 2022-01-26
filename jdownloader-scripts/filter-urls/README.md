@@ -98,7 +98,7 @@ Now we can click `Start Download` and only the `enabled` ones will be downloaded
 
 ---
 
-## Example: Automate creatition of filter file from fixDat.dat (XML)
+## Example: Automate creation of filter file from fixDat.dat (XML)
 
 **NOTE**: This requires unix tools or access to a unix style environment. Please let me know if you have a more windows-friendly way of doing this and I'll add it here!
 
